@@ -1,0 +1,13 @@
+E:\ExtendedFramework\test\ExtendedFrameworkTest\Bin\Debug\AppDomain\01ExtendedFrameworkTest.dll.config
+E:\ExtendedFramework\test\ExtendedFrameworkTest\Bin\Debug\AppDomain\01ExtendedFrameworkTest.dll
+E:\ExtendedFramework\test\ExtendedFrameworkTest\Bin\Debug\AppDomain\01ExtendedFrameworkTest.pdb
+E:\ExtendedFramework\test\ExtendedFrameworkTest\ExtendedFrameworkTest\obj\Debug\ExtendedFrameworkTest.Form1.resources
+E:\ExtendedFramework\test\ExtendedFrameworkTest\ExtendedFrameworkTest\obj\Debug\ExtendedFrameworkTest.Properties.Resources.resources
+E:\ExtendedFramework\test\ExtendedFrameworkTest\ExtendedFrameworkTest\obj\Debug\ExtendedFrameworkTest.csproj.GenerateResource.cache
+E:\ExtendedFramework\test\ExtendedFrameworkTest\ExtendedFrameworkTest\obj\Debug\ExtendedFrameworkTest.csproj.CoreCompileInputs.cache
+E:\ExtendedFramework\test\ExtendedFrameworkTest\ExtendedFrameworkTest\obj\Debug\01ExtendedFrameworkTest.dll
+E:\ExtendedFramework\test\ExtendedFrameworkTest\ExtendedFrameworkTest\obj\Debug\01ExtendedFrameworkTest.pdb
+E:\ExtendedFramework\test\ExtendedFrameworkTest\ExtendedFrameworkTest\bin\Debug\AppDomain\01ExtendedFrameworkTest.dll.config
+E:\ExtendedFramework\test\ExtendedFrameworkTest\ExtendedFrameworkTest\bin\Debug\AppDomain\01ExtendedFrameworkTest.dll
+E:\ExtendedFramework\test\ExtendedFrameworkTest\ExtendedFrameworkTest\bin\Debug\AppDomain\01ExtendedFrameworkTest.pdb
+E:\ExtendedFramework\test\ExtendedFrameworkTest\ExtendedFrameworkTest\obj\Debug\ExtendedFrameworkTest.csprojAssemblyReference.cache

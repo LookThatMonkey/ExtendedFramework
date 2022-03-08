@@ -1,0 +1,9 @@
+E:\ExtendedFramework\test\ExtendedFrameworkTest\ExtendedFrameworkTest\bin\Debug\AppDomain\02ExtendedFrameworkTest2.dll.config
+E:\ExtendedFramework\test\ExtendedFrameworkTest\ExtendedFrameworkTest\bin\Debug\AppDomain\02ExtendedFrameworkTest2.dll
+E:\ExtendedFramework\test\ExtendedFrameworkTest\ExtendedFrameworkTest\bin\Debug\AppDomain\02ExtendedFrameworkTest2.pdb
+E:\ExtendedFramework\test\ExtendedFrameworkTest\ExtendedFrameworkTest2\obj\Debug\ExtendedFrameworkTest2.Properties.Resources.resources
+E:\ExtendedFramework\test\ExtendedFrameworkTest\ExtendedFrameworkTest2\obj\Debug\ExtendedFrameworkTest2.csproj.GenerateResource.cache
+E:\ExtendedFramework\test\ExtendedFrameworkTest\ExtendedFrameworkTest2\obj\Debug\ExtendedFrameworkTest2.csproj.CoreCompileInputs.cache
+E:\ExtendedFramework\test\ExtendedFrameworkTest\ExtendedFrameworkTest2\obj\Debug\02ExtendedFrameworkTest2.dll
+E:\ExtendedFramework\test\ExtendedFrameworkTest\ExtendedFrameworkTest2\obj\Debug\02ExtendedFrameworkTest2.pdb
+E:\ExtendedFramework\test\ExtendedFrameworkTest\ExtendedFrameworkTest2\obj\Debug\ExtendedFrameworkTest2.csprojAssemblyReference.cache
